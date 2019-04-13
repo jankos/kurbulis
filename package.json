@@ -20,6 +20,7 @@
   "homepage": "https://github.com/jankos/kurbulis#readme",
   "devDependencies": {
     "cssnano": "^4.1.10",
-    "normalize.css": "^8.0.1"
+    "normalize.css": "^8.0.1",
+    "parcel-bundler": "^1.12.3"
   }
 }

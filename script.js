@@ -1,1 +1,1 @@
-console.log('kurbulis');
+import './scripts/main';
