@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jankos/kurbulis/issues"
   },
-  "homepage": "https://github.com/jankos/kurbulis#readme"
+  "homepage": "https://github.com/jankos/kurbulis#readme",
+  "devDependencies": {
+    "normalize.css": "^8.0.1"
+  }
 }
